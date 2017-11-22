@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "krakbot.userId",
+    "type": "java.lang.String",
+    "description": "The CEX.IO user ID"
+  },
+  {
+    "name": "krakbot.apiKey",
+    "type": "java.lang.String",
+    "description": "The CEX.IO API key"
+  },
+  {
+    "name": "krakbot.apiSecret",
+    "type": "java.lang.String",
+    "description": "The CEX.IO API secret"
+  },
+  {
+    "name": "krakbot.uri-template",
+    "type": "java.lang.String",
+    "description": "The CEX.IO API template URI"
+  }
+]}
